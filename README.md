@@ -14,6 +14,7 @@ This profile represents some of my public work. You can read more about me on [M
 - [Arista](//github.com/aristanetworks)
 - [BSB](//github.com/hike)
 - [Chainkit](//github.com/chainkit)
+- [Cisco](//github.com/cisco) as [cxkarthvis](//github.com/cxkarthvis)
 - [Freshworks](//github.com/freshworks)
 - [GeoG](//github.com/geog-opensource)
 - [NetApp](//github.com/netapp)
@@ -39,6 +40,7 @@ This profile represents some of my public work. You can read more about me on [M
 - [Node-Vault](//github.com/kr1sp1n/node-vault)
 - [Turntable](//github.com/ttbl)
 - [Webkit](//github.com/WebKit/webkit)
+- [WidgetZ](//github.com/SiegeLord/WidgetZ)
 
 and then some more ...
 
