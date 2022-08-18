@@ -13,7 +13,8 @@ This profile represents some of my public work. You can read more about me on [M
 - [Amazon](//github.com/amzn)
 - [Arista](//github.com/aristanetworks)
 - [BSB](//github.com/hike)
-- [Chainkit](//github.com/chainkit)
+- [Chainkit](//github.com/chainkit) from [PencilDATA](//github.com/PencilDATA)
+- [Cisco](//github.com/CXPI) as [cxkarthvis](//github.com/cxkarthvis)
 - [Freshworks](//github.com/freshworks)
 - [GeoG](//github.com/geog-opensource)
 - [NetApp](//github.com/netapp)
@@ -37,14 +38,17 @@ This profile represents some of my public work. You can read more about me on [M
 - [Hadoop](//github.com/apache/hadoop)
 - [MithQTT](//github.com/longkerdandy/mithqtt)
 - [Node-Vault](//github.com/kr1sp1n/node-vault)
+- [Public Domain Curses](//github.com/wmcbrine/PDCurses)
 - [Turntable](//github.com/ttbl)
 - [Webkit](//github.com/WebKit/webkit)
+- [WidgetZ](//github.com/SiegeLord/WidgetZ)
 
 and then some more ...
 
 # Happy to Collaborate 😊
 
-Reach out to me if you want me to collaborate. Or about something else. Peace Out!🖖
+Reach out to me if you want me to collaborate or about something
+else. Peace Out!🖖
 
 * Author: Karthik Kumar Viswanathan
 * Web   : https://karthikkumar.org
