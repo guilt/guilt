@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Karthik. Happy Coding!
 
-![Avatar](https://avatars.githubusercontent.com/u/195178?s=240)
+![Avatar](Images/ProfilePicture.png)
 
 ## About Me 🖼
 
