@@ -47,6 +47,7 @@ This profile represents some of my public work. You can read more about me on [M
 - [MithQTT](//github.com/longkerdandy/mithqtt)
 - [Node-Vault](//github.com/kr1sp1n/node-vault)
 - [Public Domain Curses](//github.com/wmcbrine/PDCurses)
+- [Swagger](//github.com/swagger-api/swagger-codegen)
 - [Turntable](//github.com/ttbl)
 - [Webkit](//github.com/WebKit/webkit)
 - [WidgetZ](//github.com/SiegeLord/WidgetZ)
