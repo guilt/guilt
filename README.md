@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Karthik. Happy Coding!
 
-![Avatar](Images/ProfilePicture.png)
+![Avatar](Images/ProfilePicture.jpg)
 
 ## About Me 🖼
 
@@ -10,7 +10,7 @@ This profile represents some of my public work. You can read more about me on [M
 
 ## Worked At 👷‍♂️
 
-- [Amazon](//github.com/amzn)
+- [Amazon](//github.com/amzn) and [AWS Bedrock](//github.com/awslabs)
 - [BSB](//github.com/hike)
 - [Chainkit](//github.com/chainkit) from [PencilDATA](//github.com/PencilDATA)
 - [Cisco](//github.com/CXPI) as [cxkarthvis](//github.com/cxkarthvis)
@@ -44,11 +44,14 @@ This profile represents some of my public work. You can read more about me on [M
 - [GMQTT](//github.com/DrmagicE/gmqtt)
 - [GroupEnc](//github.com/guilt/groupenc)
 - [Hadoop](//github.com/apache/hadoop)
+- [Langchain AWS](//github.com/langchain-ai/langchain-aws)
+- [LLAMA.cpp](//github.com/ggerganov/llama.cpp)
 - [MithQTT](//github.com/longkerdandy/mithqtt)
 - [Node-Vault](//github.com/kr1sp1n/node-vault)
 - [Public Domain Curses](//github.com/wmcbrine/PDCurses)
+- [Swagger](//github.com/swagger-api/swagger-codegen)
 - [Turntable](//github.com/ttbl)
-- [Webkit](//github.com/WebKit/webkit)
+- [Webkit](//github.com/WebKit/webkit) ([Unbelievable Eh?](https://github.com/WebKit/WebKit/commit/cc9c31bea9c175377825d69a87bcd0e704a0177c))
 - [WidgetZ](//github.com/SiegeLord/WidgetZ)
 
 and then some more ...
