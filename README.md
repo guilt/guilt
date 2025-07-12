@@ -2,12 +2,13 @@
 
 👋 Hello, I'm Karthik. Happy Coding!
 
-![Avatar](Images/ProfilePicture.jpg)
+![Avatar](Images/ProfilePicture.png)
 
 ## About Me 🖼
 
-This profile represents some of my public work. You can read more about me on [My Website](https://karthikkumar.org).
- I consult at [Reasonable Work](//github.com/RWorkInc).
+This profile represents some of my public work. You can read more about me
+on [My Website](https://karthikkumar.org). I consult
+at [Reasonable Work Inc.](//github.com/RWorkInc).
 
 ## Worked At 👷‍♂️
 
